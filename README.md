@@ -15,9 +15,9 @@ Aqui você vai encontrar projetos que vão desde **sistemas de gestão** até **
 ## 🧑‍💻 Tech Stack
 > Ferramentas que movem a RWB Software:
 
-- **Linguagens:** C#, Python, JavaScript  
-- **Frameworks:** .NET, WinForms, ASP.NET, Node.js  
-- **Banco de Dados:** SQL Server, SQLite, MySQL  
+- **Linguagens:** C#, Python  
+- **Frameworks:** .NET, WinForms, ASP.NET
+- **Banco de Dados:** SQL Server, SQLite  
 - **Ferramentas:** Git, GitHub, Inno Setup  
 - **UI/UX:** Foco em simplicidade, funcionalidade e boa experiência do usuário  
 
@@ -51,6 +51,7 @@ Criamos sistemas que **simplificam vidas**, **otimizam negócios** e **conectam 
 ## 🤝 Conecte-se
 📌 GitHub: [RWBSoftware](https://github.com/RWBSoftware)  
 📌 Em breve: Site oficial 🚀  
+📩 Em caso de dúvidas, sugestões de melhorias ou propostas de parceria, entre em contato: ✉️ RWBSoftwares@gmail.com
 
 ---
 
