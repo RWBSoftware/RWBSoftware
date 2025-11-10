@@ -26,17 +26,6 @@ Tudo com a marca registrada da RWB: **qualidade, agilidade e design funcional.**
 
 ---
 
-## 🧩 Divisões Oficiais
-
-| Unidade | Foco Principal |
-|----------|----------------|
-| 🏢 **RWB Software (Principal)** | ERPs, SaaS corporativos e sistemas de gestão |
-| ⚡ **RWB Express** | Automação, NoCode/LowCode e utilitários rápidos |
-| 🎮 **RWB Games Studio** | Games, simulações e projetos criativos |
-| 🌐 **RWB Tech Solutions HUB** | APIs, hubs, integrações e conectividade |
-
----
-
 ## 🧰 Projetos e Apps
 
 Atualmente, a RWB conta com uma linha sólida de softwares em desenvolvimento e operação, incluindo:
