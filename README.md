@@ -68,7 +68,7 @@ Trabalhamos com paixão, código limpo e propósito.
 📸 **Instagram:** [@rwb.software](#)  
 💼 **LinkedIn:** [RWB Software](#)  
 💻 **GitHub:** [github.com/RWB-Software](#)  
-📧 **Contato:** contato@rwbsoftware.com  
+📧 **Contato:** rwbsoftwares@gmail.com  
 
 ---
 
