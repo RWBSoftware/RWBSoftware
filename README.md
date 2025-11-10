@@ -1,58 +1,90 @@
-# 👋 Bem-vindo ao universo da **RWB Software**
+# 🚀 RWB Software
 
-### 🏆 "Transformando ideias em soluções digitais"
-
----
-
-## 🚀 Sobre nós
-A **RWB Software** nasceu com o propósito de criar sistemas inovadores, funcionais e com design inteligente.  
-Nossa missão é simples: **resolver problemas reais com tecnologia acessível, prática e moderna**.  
-
-Aqui você vai encontrar projetos que vão desde **sistemas de gestão** até **ferramentas de produtividade** e **segurança digital**.  
+> **Inovação, performance e tecnologia que falam a sua língua.**  
+> A **RWB Software** é uma empresa especializada em **desenvolvimento de sistemas inteligentes, apps sob medida e automações corporativas**, focada em entregar **soluções práticas, modernas e escaláveis**.
 
 ---
 
-## 🧑‍💻 Tech Stack
-> Ferramentas que movem a RWB Software:
+## 🧠 Nossa Visão
 
-- **Linguagens:** C#, Python  
-- **Frameworks:** .NET, WinForms, ASP.NET
-- **Banco de Dados:** SQL Server, SQLite  
-- **Ferramentas:** Git, GitHub, Inno Setup  
-- **UI/UX:** Foco em simplicidade, funcionalidade e boa experiência do usuário  
+Transformar ideias em produtos digitais de alto impacto, conectando **negócios, tecnologia e experiência do usuário** de um jeito **eficiente, criativo e inovador**.  
+A gente não só desenvolve software — **a gente constrói o futuro da automação digital.**
 
 ---
 
-## 📂 Principais Projetos
-🔑 [**GuardianPass**](https://github.com/RWBSoftware/GuardianPass) – Gerenciador de senhas simples, seguro e prático.  
-💰 [**CashFlow+**](https://github.com/RWBSoftware/CashFlow-) – Controle financeiro eficiente para organizar sua vida financeira.  
-🏫 [**SchoolNET**](https://github.com/RWBSoftware/SchoolNET) – Sistema escolar para alunos, professores e escolas.  
-📍 [**LocalizaCEP**](https://github.com/RWBSoftware/LocalizaCEP) – Busque informações de endereços a partir do CEP.  
-📞 [**HelpDesk Pro**](https://github.com/RWBSoftware/HelpDesk-Pro) – Sistema de atendimento e suporte para empresas.  
+## 💼 O que fazemos
+
+Oferecemos soluções que **simplificam o dia a dia e impulsionam resultados**, como:
+
+- **ERPs e sistemas de gestão completos**  
+- **Aplicativos corporativos e utilitários inteligentes**  
+- **Integrações com APIs e automações de processos**  
+- **Softwares personalizados para empresas e empreendedores**  
+- **Bots, hubs e ferramentas de produtividade**
+
+Tudo com a marca registrada da RWB: **qualidade, agilidade e design funcional.**
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
+## 🧩 Divisões Oficiais
 
-![RWBSoftware GitHub Stats](https://github-readme-stats.vercel.app/api?username=RWBSoftware&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RWBSoftware&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🌍 Visão
-A RWB não é só código. É sobre **impacto**.  
-Criamos sistemas que **simplificam vidas**, **otimizam negócios** e **conectam pessoas**.  
+| Unidade | Foco Principal |
+|----------|----------------|
+| 🏢 **RWB Software (Principal)** | ERPs, SaaS corporativos e sistemas de gestão |
+| ⚡ **RWB Express** | Automação, NoCode/LowCode e utilitários rápidos |
+| 🎮 **RWB Games Studio** | Games, simulações e projetos criativos |
+| 🌐 **RWB Tech Solutions HUB** | APIs, hubs, integrações e conectividade |
 
 ---
 
-## 🤝 Conecte-se
-📌 GitHub: [RWBSoftware](https://github.com/RWBSoftware)  
-📌 Em breve: Site oficial 🚀  
-📩 Em caso de dúvidas, sugestões de melhorias ou propostas de parceria, entre em contato: ✉️ RWBSoftwares@gmail.com
+## 🧰 Projetos e Apps
+
+Atualmente, a RWB conta com uma linha sólida de softwares em desenvolvimento e operação, incluindo:
+
+| Projeto | Descrição |
+|----------|------------|
+| 🏫 **SchoolNET** | Sistema educacional completo para escolas e instituições |
+| 💰 **CashFlow+** | Controle financeiro pessoal e empresarial |
+| 🎓 **UNIPScore** | Plataforma de pontuação acadêmica |
+| 🛡️ **GuardianPass** | Controle de acesso e segurança inteligente |
+| 🧾 **HelpDesk Pro** | Gestão de suporte técnico e tickets |
+| 🧮 **Aptidão Militar Digital** | Avaliação e gestão de aptidão física |
+| 📦 **LocalizaCEP** | Consulta e automação de endereços |
+| 🏋️ **WorkBalance+** | Gestão de produtividade e equilíbrio de horas |
+
+> E muito mais vindo aí — **a RWB não para.**
 
 ---
 
-💡 *"Código é a nossa linguagem, inovação é a nossa cultura."*
+## 🧭 Nossos Pilares
+
+- 💡 **Inovação constante:** sempre buscando o próximo nível.  
+- ⚙️ **Desempenho e escalabilidade:** nada de gambiarra, só arquitetura sólida.  
+- 🎨 **Design funcional:** bonito, prático e intuitivo.  
+- 🤝 **Parceria real:** não é só software, é **solução com propósito.**
+
+---
+
+## 🧬 Cultura RWB
+
+Aqui, a gente acredita que **tecnologia é poder** — e o poder certo nas mãos certas muda tudo.  
+Trabalhamos com paixão, código limpo e propósito.  
+
+> “**Automatize. Simplifique. Evolua.**”
+
+---
+
+## 🌍 Conecte-se com a gente
+
+📸 **Instagram:** [@rwb.software](#)  
+💼 **LinkedIn:** [RWB Software](#)  
+💻 **GitHub:** [github.com/RWB-Software](#)  
+📧 **Contato:** contato@rwbsoftware.com  
+
+---
+
+## ⚡ Frase Oficial
+
+> **“Na RWB Software, o futuro é código — e o código é RWB.”**
+
+---
