@@ -34,11 +34,8 @@ Atualmente, a RWB conta com uma linha sólida de softwares em desenvolvimento e 
 |----------|------------|
 | 🏫 **SchoolNET** | Sistema educacional completo para escolas e instituições |
 | 💰 **CashFlow+** | Controle financeiro pessoal e empresarial |
-| 🎓 **UNIPScore** | Plataforma de pontuação acadêmica |
 | 🛡️ **GuardianPass** | Controle de acesso e segurança inteligente |
 | 🧾 **HelpDesk Pro** | Gestão de suporte técnico e tickets |
-| 🧮 **Aptidão Militar Digital** | Avaliação e gestão de aptidão física |
-| 📦 **LocalizaCEP** | Consulta e automação de endereços |
 | 🏋️ **WorkBalance+** | Gestão de produtividade e equilíbrio de horas |
 
 > E muito mais vindo aí — **a RWB não para.**
